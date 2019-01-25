@@ -1,0 +1,56 @@
+/* styling of survey */
+body {
+    background-color: purple;
+    float: left;
+
+    
+
+}
+form {
+    background-color: hotpink;
+    font-size: 20px;
+    font-family: fantasy;
+    align-self:center;
+    size: 40px;
+    color: blueviolet;
+}
+h1 {
+    text-align: center;
+    color: black;
+    text-decoration-line:underline;
+    font-family: fantasy;
+}
+p{
+    font-size: 30px;
+    font-family: fantasy;
+}
+::placeholder {
+    size: 5px;
+    color: blueviolet;
+    text-decoration-color: black;
+    font-size: 12px;
+}
+textarea {
+    size: 20px;
+    color:white;
+    background-color: black;
+    font-family: fantasy;
+    
+}
+button {
+    size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    background-color:purple;
+    color: black;
+}
+label {
+    size: 30px;
+    color: black;
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input {
+    color: rgb(8, 6, 10);
+    size: 30px;
+}
